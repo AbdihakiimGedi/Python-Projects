@@ -1,0 +1,6 @@
+Abdihakiin gedi mohamed		male		2001		single		613936588		mujumac dhiba education center		77		mother
+
+Nasro muxumed ali		Female		2003		single		615120987		al micraaj high school		70		Brother
+
+Axmed maxamuud gedi		Male		2002		Divorced		615780912		Al hidaaya primary and secondary school		90		father
+
